@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou desenvolvedor Full Stack em formação, apaixonado por tecnologia, programação, inteligência artificial e inovação.
 
@@ -28,7 +28,7 @@ Também atuo profissionalmente na área de **inovação**, conectando tecnologia
 
 ---
 
-## 💻 Tecnologias
+##  Tecnologias
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Também atuo profissionalmente na área de **inovação**, conectando tecnologia
 
 ## 🚀 Projetos em destaque
 
-### 🛍️ Drip Store
+###  Drip Store
 
 Projeto de desenvolvimento web com foco na criação de uma experiência moderna de e-commerce.
 
@@ -50,7 +50,7 @@ Projeto de desenvolvimento web com foco na criação de uma experiência moderna
 
 ---
 
-### ⚙️ Backend GT3
+###  Backend GT3
 
 Projeto focado no desenvolvimento de uma aplicação backend, trabalhando conceitos de APIs, organização de código e integração com banco de dados.
 
@@ -60,7 +60,7 @@ Projeto focado no desenvolvimento de uma aplicação backend, trabalhando concei
 
 ---
 
-### 💻 Portfólio Dev Paulo Viana
+###  Portfólio Dev Paulo Viana
 
 Meu portfólio pessoal desenvolvido para apresentar meus projetos, experiências e trabalhos nas áreas de desenvolvimento, design e tecnologia.
 
@@ -86,7 +86,7 @@ Meu portfólio pessoal desenvolvido para apresentar meus projetos, experiências
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
