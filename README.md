@@ -84,17 +84,6 @@ Meu portfólio pessoal desenvolvido para apresentar meus projetos, experiências
 * Automação de processos
 * Arquitetura de aplicações
 
----
-
-##  GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PauloVianaTech&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVianaTech&layout=compact&theme=tokyonight" />
-
-</div>
 
 ---
 
